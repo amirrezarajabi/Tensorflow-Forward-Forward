@@ -1,6 +1,6 @@
 # Tensorflow-Forward-Forward
 
-Hinton's Forward-Forward algorithm[pdf](https://www.cs.toronto.edu/~hinton/FFA13.pdf) implementation in Tensorflow
+Hinton's Forward-Forward algorithm [pdf](https://www.cs.toronto.edu/~hinton/FFA13.pdf) implementation in Tensorflow
 
 ## Datasets
 *  ### [MNIST dataset](./MNIST/)
